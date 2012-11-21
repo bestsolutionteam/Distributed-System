@@ -7,7 +7,7 @@ import java.io.ObjectOutputStream;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-public class CyracusNextServer {
+public class CyracuseNextServer {
 	public static void main(String[] args) throws ClassNotFoundException {
 		try {
 			// serveur positionne sa socket d'écoute sur le port local 7777
